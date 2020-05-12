@@ -1,0 +1,29 @@
+header{
+    width: 800;
+    margin: 0 auto;
+    padding: 50;
+    background-color: aqua;
+    border: blue;
+    border-radius: 10;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+div {
+    width: 800;
+    margin: 0 auto;
+    padding: 50;
+    text-align: center;
+}
+
+button {
+   padding: 20px;
+   font-weight: bold;
+
+}
+
+button:hover {
+    background-color: crimson;
+    color: darkgoldenrod;
+}
